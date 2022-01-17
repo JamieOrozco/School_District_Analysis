@@ -1,9 +1,9 @@
 ## School_District_Analysis
 
 # Overview of PyCityShcools Challenge
-The goal of this challenge was to analyize the standardized testing results from a large number of schools state-wide. The file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once you’ve replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
+The goal of this challenge was to analyize the standardized testing results from a large number of schools. The csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. We were asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Then we need to repeat the school district analysis and describe how these changes affected the overall analysis.
 
-Deliverable 1: Replace Thomas High School's 9th-grade reading and math scores with Nan
+#Deliverable 1: Replace Thomas High School's 9th-grade reading and math scores with Nan
 We used the loc method to select all the reading and math scores from the ninth grade at Thomas High School. Inside the the loc method a comparison operator was used to retreive all the rows with Thomas High School, logical and comparison operators were used to retrieve all the rows with the "reading_score" and "math_score" column. The reading and math score for the ninth graders in THomas High School are replaced with Nans. The code and table can be seen below.
 
 Replace 9th grade math and reading scores.png

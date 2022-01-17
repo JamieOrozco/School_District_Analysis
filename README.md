@@ -58,6 +58,8 @@ I calculated the average math and reading score for each grade level with the ne
 
 ## Summary 
 
+Overall, replacing all of Thomas High Schools 9th grade math and reading test results with NaN has negatively affected the data. Thomas High Schools rankings for the overall percentage of passing students dropped from 2nd best to 8th worst. In addition their malpractice negatively affected the ratings for charter schools and school sizes in the range of 1000 to 2000 kids. 
+
 ### How is the district summary affected
 *  Original data compared to clean up: Average Math Score 79.0 to 78.9, Average Reading Score stayed the same, % Passing Math went from 75 to 74.8, % passing reading went from 86 to 85.7, % Overall Passing 64 to 65
 
@@ -82,5 +84,3 @@ I calculated the average math and reading score for each grade level with the ne
  * % passing math went from 94% down to 88%
  * % passing reading went from 97% down to 91%
  * % overall went from 91% down to 85%
-
-Overall, replacing all of Thomas High Schools 9th grade math and reading test results with NaN has negatively affected the data. Thomas High Schools rankings for the overall percentage of passing students dropped from 2nd best to 8th worst. In addition their malpractice negatively affected the ratings for charter schools and school sizes in the range of 1000 to 2000 kids. 
